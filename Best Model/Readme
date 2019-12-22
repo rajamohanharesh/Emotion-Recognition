@@ -1,1 +1,1 @@
-Contains the 14 class classification model which gave 68% accuracy with Log-Mel Spectrogram features
+Contains the 14 class classification model which gave 68% test accuracy with Log-Mel Spectrogram features and 62% acuuracy on TESS dataset
